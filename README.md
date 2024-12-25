@@ -1,28 +1,28 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Portfólio Pessoal ⚡️ 
+> Um template de portfólio bonito, limpo e responsivo para Desenvolvedores de Software!
 
-> https://varadbhogayata.github.io
+> https://eduardovlrocha.github.io
+
+> Projeto feito utilizando como base, um outro projeto cujo autoria é de: https://github.com/varadbhogayata
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-green)](http://varadbhogayata.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/eduardo-vin%C3%ADcius-9b4aa8197/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
+### Prévia do site
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://eduardovlrocha.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
-
 ## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+⚡️ Totalmente Responsivo\
+⚡️ Válido HTML5 & CSS3\
+⚡️ Typing animation usando `Typed.js`\
+⚡️ Fácil modificação
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
@@ -32,21 +32,19 @@
 - Push the generated code to the `master` branch of this repository.
 - <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
+## Seções 📚
+✔️ Sobre mim\
+✔️ Experiência\
+✔️ Projetos \
 ✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+✔️ Educação\
+✔️ Contato\
+✔️ Currículo
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+## Ferramentas usadas 🛠️
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - Para hospedar meu site estático (HTML, CSS, JS).
+* [<b>Materialize</b>](https://materializecss.com/) - Um framework CSS para obter os componentes do Material Design do Google.
+* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - Biblioteca JavaScript.
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+## Licença 📄
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](./LICENSE) para obter detalhes. 
