@@ -3,7 +3,7 @@
 
 > https://eduardovlrocha.github.io
 
-> Projeto feito utilizando como base um outro projeto cujo autoria é de: https://github.com/varadbhogayata
+> Projeto feito utilizando como base um outro projeto cujo autoria é de: [https://github.com/varadbhogayata](https://github.com/varadbhogayata/varadbhogayata.github.io)
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/EduardoVLRocha/eduardovlrocha.github.io/commits/main)
 [![Website shields.io](https://img.shields.io/badge/website-up-green)](https://eduardovlrocha.github.io/)
