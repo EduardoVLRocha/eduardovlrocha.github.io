@@ -1,5 +1,5 @@
 # Portfólio Pessoal ⚡️ 
-> Um template de portfólio bonito, limpo e responsivo para Desenvolvedores de Software!
+> Um template de portfólio bonito, limpo e responsivo para me apresentar como pessoa, acadêmico e profissional.
 
 > https://eduardovlrocha.github.io
 
